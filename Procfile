@@ -1,1 +1,1 @@
-web: node examples/chat
+web: node examples/chat/
